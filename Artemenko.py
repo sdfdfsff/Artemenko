@@ -18,7 +18,7 @@ from prettytable import PrettyTable
 # <---------------------------------------------------Отчёт-------------------------------------------------------->
 
 
-class UserInput:
+clasas UserInput:
     def __init__(self):
         self.file_name, self.profession = UserInput.get_params()
 
